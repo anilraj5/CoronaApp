@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background: #eee;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.row{
+  display: flex;
+  width: 80%;
+  margin: 5px auto;
+  background-color: #fff;
+  justify-content: space-around;
+  border-bottom: 5px solid orange;
+}
+
+.NewConfirmed{
+  color: rgb(241, 241, 90);
+}
+.TotalConfirmed{
+  color: rgb(194, 194, 54);
+}
+.NewDeaths{
+  color: red;
+}
+.TotalDeaths{
+  color: darkred;
+}
+.NewRecovered{
+  color: green;
+}
+
+table{
+  border-collapse: separate;
+  width: 80%;
+  margin: 10px auto;
+  border-spacing: 0 10px;
+}
+
+table thead{
+  background-color: #fff;
+  font-weight: bold;
+}
+table thead tr th{
+  padding: 10px 0px;
+  border-bottom: 2px solid rgb(144, 144, 235);
+}
+table tbody tr{
+  background: white;
+}
