@@ -1,7 +1,7 @@
 
-# Covid Case Traking App
+# Covid Case Tracking App
 
-Covid Case Traking App is built with latest development tools.
+Covid Case Tracking App is built with latest development tools.
 
 
 
@@ -17,7 +17,7 @@ Covid Case Traking App is built with latest development tools.
  - This is **Daily Covid Case with All details** application. 
 
  ## Some Ui feature 
- - Can dtails of covid in list of countries. 
+ - Can details of covid in list of countries. 
  - Also it will show total summary of world wide cases
 
 
@@ -96,7 +96,7 @@ Product api data look like
 
 ## Installation
 
-GitHub Repositry of React-Redux-Ecommerce App
+GitHub Repository of React-Redux-Ecommerce App
 ```bash
 https://github.com/airKing05/CoronaApp.git
 ```
